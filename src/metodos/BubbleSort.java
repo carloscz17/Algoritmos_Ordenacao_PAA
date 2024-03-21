@@ -14,3 +14,5 @@ public class BubbleSort {
         }
     }
 }
+//Pior caso: O(n^2)
+//Melhor caso: O(n)

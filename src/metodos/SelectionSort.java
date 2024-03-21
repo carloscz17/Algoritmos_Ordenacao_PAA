@@ -18,3 +18,5 @@ public class SelectionSort {
         }
     }
 }
+//Pior caso: O(n^2)
+//Melhor caso: O(n^2)

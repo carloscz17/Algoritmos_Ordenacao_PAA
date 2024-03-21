@@ -20,3 +20,5 @@ public class BuscaBinaria {
         return -1;
     }
 }
+//Pior caso: O(log n)
+//Melhor caso: O(1)
